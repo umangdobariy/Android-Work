@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rd_background"
+    tools:context=".Acitivites.SignupActivity">
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/whatsapp" />
+
+    <TextView
+        android:id="@+id/hander"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Create your account with\n Umang"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textColorHint="#000000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <RadioGroup
+        android:id="@+id/rg_gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/hander"
+        tools:layout_editor_absoluteX="156dp">
+
+    </RadioGroup>
+
+    <RadioButton
+        android:id="@+id/ud_other"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:text="other"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hander" />
+
+    <RadioButton
+        android:id="@+id/ud_Female"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="female"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hander" />
+
+    <RadioButton
+        android:id="@+id/ud_male"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:text="male"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hander" />
+
+    <EditText
+        android:id="@+id/ud_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:textColor="@color/black"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawablePadding="20dp"
+        android:hint="Enter the name"
+        android:inputType="textPersonName|textEmailAddress"
+        android:textColorHint="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/ud_other"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/ud_male"
+        app:layout_constraintTop_toBottomOf="@+id/ud_Female" />
+
+    <EditText
+        android:id="@+id/ud_contact"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/black"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_call_24"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:hint="Enter the contact"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/ud_name"
+        app:layout_constraintStart_toStartOf="@+id/ud_name"
+        app:layout_constraintTop_toBottomOf="@+id/ud_name" />
+
+    <EditText
+        android:id="@+id/ud_birth"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_calendar_month_24"
+        android:drawablePadding="20dp"
+        android:textColor="@color/black"
+        android:hint="Enter the Date of Birth"
+        android:textColorHint="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/ud_contact"
+        app:layout_constraintStart_toStartOf="@+id/ud_contact"
+        app:layout_constraintTop_toBottomOf="@+id/ud_contact" />
+
+    <EditText
+        android:id="@+id/ud_email"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:drawablePadding="20dp"
+        android:hint="Enter the email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#000000"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/ud_birth"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/ud_birth"
+        app:layout_constraintTop_toBottomOf="@+id/ud_birth" />
+
+    <EditText
+        android:id="@+id/ud_password"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="20dp"
+        android:textColor="@color/black"
+        android:ems="10"
+        android:hint="Enter the password"
+        android:inputType="textPassword"
+        android:textColorHint="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/ud_email"
+        app:layout_constraintStart_toStartOf="@+id/ud_email"
+        app:layout_constraintTop_toBottomOf="@+id/ud_email" />
+
+    <EditText
+        android:id="@+id/ud_cpassword"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/black"
+        android:hint="Enter the cpassword"
+        android:background="@drawable/ud_background"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="20dp"
+        android:inputType="textPassword"
+        android:textColorHint="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/ud_password"
+        app:layout_constraintStart_toStartOf="@+id/ud_password"
+        app:layout_constraintTop_toBottomOf="@+id/ud_password" />
+
+    <Button
+        android:id="@+id/ud_register"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="register her"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ud_cpassword"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/ud_cpassword" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
