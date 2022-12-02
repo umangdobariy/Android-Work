@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:src="@drawable/facebook"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login to continue with\n facebook"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+    <EditText
+        android:id="@+id/ud_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:hint="Enter email address"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="30dp"
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:drawablePadding="16dp"/>
+    <EditText
+        android:id="@+id/ud_password"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter password"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="16dp"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/btn_forgotpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot password?"
+        android:background="@android:color/transparent"
+        android:textColor="#1E88E5"
+        android:layout_gravity="right"
+        android:textAllCaps="false"
+        android:textSize="16dp"
+        android:padding="0dp"/>
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="Login to continue"
+        android:backgroundTint="#1E88E5"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account?"
+            android:textSize="18sp"
+            android:textColor="@color/black"/>
+        <Button
+            android:id="@+id/btn_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signup"
+            android:backgroundTint="#1E88E5"
+            android:textAllCaps="false"
+            android:layout_marginLeft="16dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

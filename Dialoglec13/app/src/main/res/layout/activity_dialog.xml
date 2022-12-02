@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DailogActivity">
+
+ <LinearLayout
+    android:layout_centerInParent="true"
+     android:orientation="vertical"
+     android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+     <Button
+         android:id="@+id/ud_simple_dialog"
+         android:text="Show Simple Alert Dialog"
+         android:onClick="onButtonClicked"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/ud_single_Choice_dialog"
+         android:text="Show Single Choice Alert Dialog"
+         android:onClick="onButtonClicked"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/ud_single_Choice_dialog2"
+         android:text="Show Single Choice Alert Dialog with Radio"
+         android:onClick="onButtonClicked"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/ud_multi_Choice_dialog"
+         android:text="Show multi Choice dialog"
+         android:onClick="onButtonClicked"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+
+     <Button
+         android:onClick="onButtonClicked"
+         android:id="@+id/ud_show_custom_dialog"
+         android:text="show custom dialog"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+
+
+
+ </LinearLayout>
+
+
+</RelativeLayout>

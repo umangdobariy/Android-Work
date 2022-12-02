@@ -1,6 +1,7 @@
 package com.example.apigetpretics.model
 
-data class Support(
+data class
+Support(
 
     var url:String,
     var text:String

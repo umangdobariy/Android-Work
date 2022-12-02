@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@drawable/ud_background"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_top"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:src="@drawable/image_logo"
+            android:layout_width="120dp"
+            android:layout_height="120dp"/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:text="Login to continue with\n mahadev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/layout_bottom"
+        android:layout_below="@id/layout_top"
+        android:layout_marginTop="125dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/rd_email"
+            android:background="@drawable/rd_backgroundshape"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="20dp"
+            android:hint="Enter the Email"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/black" />
+
+        <EditText
+            android:id="@+id/rd_password"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/rd_backgroundshape"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:drawablePadding="20dp"
+            android:hint="Enter the Password"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/black" />
+
+        <Button
+            android:id="@+id/rd_Forgot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:backgroundTint="@android:color/transparent"
+            android:text="Forgot password"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/rd_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#CA78E8"
+            android:text="Login to continue"
+            android:textColor="@color/black" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account?"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/rd_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="Sign up"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+</RelativeLayout>

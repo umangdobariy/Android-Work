@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "996154639246",
+    "firebase_url": "https://food-da280-default-rtdb.firebaseio.com",
+    "project_id": "food-da280",
+    "storage_bucket": "food-da280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996154639246:android:fde77b848fd0425975dadf",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996154639246-1kpk0gsdvp759tmfqkac2s40l0r2j86p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food",
+            "certificate_hash": "af45fcde9f3014cbd5e35076eb6cac5c1aafacdd"
+          }
+        },
+        {
+          "client_id": "996154639246-91oq46619jbldorr7qhv7fchnn6qaj07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUU127C1hlw-16S6cJZ-7MYFKevkR1GIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996154639246-91oq46619jbldorr7qhv7fchnn6qaj07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996154639246:android:af31dc3b0f2adfff75dadf",
+        "android_client_info": {
+          "package_name": "com.example.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996154639246-91oq46619jbldorr7qhv7fchnn6qaj07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUU127C1hlw-16S6cJZ-7MYFKevkR1GIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996154639246-91oq46619jbldorr7qhv7fchnn6qaj07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook Login Lec-48 &amp; 49</string>
+
+
+    <string name="facebook_app_id">461176339113600</string>
+    <string name="fb_login_protocol_scheme">fb461176339113600</string>
+    <string name="facebook_client_token">693c8bd44b74e2426a814b98204446bb</string>
+
+
+</resources>

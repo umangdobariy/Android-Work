@@ -1,0 +1,10 @@
+package com.example.get_depedanapilec_38
+
+class Const {
+
+    companion object{
+      //  val  TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfZW1haWwiOiJtaWxhbkBnbWFpbC5jb20iLCJhcGlfdG9rZW4iOiJINkJGZ1lUeG5vRExDSllQOG5ERVByaXlRUjRqX3NhOVMyVFB6RV8tYk1XUFZjS2Z2YnhPaV9NeWE4NTNvOE51eXpvIn0sImV4cCI6MTY2MjEwNjA4N30.rx-CyVm65eN188zot4_FAxo7koMaAjWeoqigFcnF2SA"
+        val  TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfZW1haWwiOiJqYXRpbkBnbWFpbC5jb20iLCJhcGlfdG9rZW4iOiJmMHo3QWRRNlh5aVZQUllTbzZsaVptVTVsNjhqYjhLVjJ4YVFkSEduZkF1MEpxZ0dvdGxFQllZdXJaM2RzV2RGUllJIn0sImV4cCI6MTY2MjQ0NTIxNH0.Eub0VEHBEncjfxCTO3ez6RzXDcTzPRZqHx2H78IDE2c"
+    }
+
+}

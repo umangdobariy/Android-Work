@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recent_status">रीसेंट स्टेटस</string>
+    <string name="saved_status">सेव्ड स्टेटस</string>
+    <string name="wapp">"व्हाट्सएप्प "</string>
+    <string name="wbapp">WA बिज़नेस</string>
+    <string name="language">भाषा</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="rate_app">रेट ऐप</string>
+    <string name="privacy_policy">प्राइवेसी</string>
+    <string name="more_app">मोर ऐप</string>
+    <string name="tap_to_open">क्लिक करें</string>
+    <string name="whatsapp_business">व्हाट्सएप बिजनेस</string>
+    <string name="select_all">सभी सिलेक्ट करे</string>
+    <string name="save">बचाना</string>
+    <string name="delete">हटाना</string>
+    <string name="photos">तस्वीरें</string>
+    <string name="videos">वीडियो</string>
+    <string name="share">शेयर</string>
+    <string name="repost">दोबारा पोस्ट</string>
+    <string name="exit_alert">बाहर निकलने के लिए फिर से दबाएं</string>
+    <string name="delete_error">कुछ फ़ाइलें हटाई नहीं जा सकीं</string>
+    <string name="delete_success">सफलतापूर्वक मिटाया गया</string>
+    <string name="save_success">सभी स्टेटस सफलतापूर्वक सेव हो गए हैं</string>
+    <string name="save_error">कुछ फ़ाइलें सेव नहीं हो सकीं</string>
+    <string name="delete_alert">क्या आप सुनिश्चित हैं , आप सिलेक्ट फ़ाइलों को हटाना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="confirm">हटाने की पुष्टि करें....</string>
+    <string name="del_status">क्या आप सुनिश्चित हैं, आप इस स्टेटस को हटाना चाहते हैं?</string>
+    <string name="saved_success">स्टेटस सफलतापूर्वक सेव हो गया हैं</string>
+    <string name="how_to_use">उपयोग कैसे करें?</string>
+    <string name="step_1">स्टेप 1</string>
+    <string name="step_2">स्टेप 2</string>
+    <string name="step_3">स्टेप 3</string>
+    <string name="step_4">स्टेप 4</string>
+    <string name="first_step">व्हाट्सएप आइकन पर टैप करें।</string>
+    <string name="second_step">व्हाट्सएप या व्हाट्सएप बिजनेस खोलने के लिए क्लिक करें।</string>
+    <string name="step_three">सबसे पहले आपको व्हाट्सएप या व्हाट्सएप बिजनेस से स्टेटस देखना होगा।</string>
+    <string name="step_four">एक बार जब आप व्हाट्सएप या व्हाट्सएप बिजनेस में स्टेटस देखते हैं तो इस एप्लिकेशन को खोलें, आपका देखा हुआ स्टेटस यहां इस ऐप में होगा और यहां से आप डाउनलोड और शेयर कर सकते हैं।</string>
+    <string name="status_not_available">स्टेटस उपलब्ध नहीं है।</string>
+</resources>

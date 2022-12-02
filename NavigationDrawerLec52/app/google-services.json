@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446071518487",
+    "project_id": "androidnotificationapp-82def",
+    "storage_bucket": "androidnotificationapp-82def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446071518487:android:fcb3e7294ccb326043f352",
+        "android_client_info": {
+          "package_name": "com.example.navigationdrawerlec_52"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446071518487-5c4888eoufe6qsm12ohn4g0cgebhk223.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2CbW-7r-l3gl6frs_xSDo-NBzUr6icM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446071518487-5c4888eoufe6qsm12ohn4g0cgebhk223.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

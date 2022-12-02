@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_broadcasting.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_home_acitvity.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_login.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_retrofit.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_set_data.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_signup.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/activity_splash.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/customdilog.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/row_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/layout/row_user.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/menu/item_logout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/project3/project3/app/src/main/res/menu/menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_broadcasting.xml" value="0.20416666666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_home_acitvity.xml" value="0.18" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_retrofit.xml" value="0.18" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_set_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/customdilog.xml" value="0.16" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/row_item.xml" value="0.16" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/layout/row_user.xml" value="0.18" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/menu/item_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Tops Working/kotlin programing android/ProjectTask/project3/app/src/main/res/menu/menu.xml" value="0.1574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

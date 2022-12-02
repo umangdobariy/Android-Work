@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
         madapter = RecycleUserAdapter(this,userList)
         binding.recyclerviewItem.layoutManager = LinearLayoutManager(this)
 

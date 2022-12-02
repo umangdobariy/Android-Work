@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".SignupActivity">
+
+    <ImageView
+        android:src="@drawable/facebook"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login to continue with\n facebook"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:id="@+id/rd_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the name"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:padding="16dp"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawablePadding="16dp"/>
+
+    <EditText
+        android:id="@+id/rd_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter email address"
+        android:inputType="textEmailAddress"
+        android:padding="16dp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:drawablePadding="16dp"/>
+    <EditText
+        android:id="@+id/rd_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the contact"
+        android:textStyle="bold"
+        android:inputType="number"
+        android:drawableLeft="@drawable/ic_baseline_contact_phone_24"
+        android:drawablePadding="16dp"
+        android:padding="16dp"/>
+    <EditText
+        android:id="@+id/rd_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter password"
+        android:textStyle="bold"
+        android:padding="16dp"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="16dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Confirm password"
+        android:textStyle="bold"
+        android:id="@+id/rd_confirmpassword"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="16dp"
+        android:padding="16dp"/>
+    <Button
+        android:id="@+id/rd_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Signup"
+        android:layout_marginTop="30dp"/>
+
+
+</LinearLayout>

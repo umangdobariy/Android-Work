@@ -82,6 +82,7 @@ class MainActivity : AppCompatActivity() {
 
             db.userDao.updateRecord(mUser)
             updateList()
+
             alert.dismiss()
         }
         bind.btnCancel.setOnClickListener {

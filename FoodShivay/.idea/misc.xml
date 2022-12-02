@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable-v24/inactivted_indicator.xml" value="0.1575" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/activted_indicator.xml" value="0.1575" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/bg_color.xml" value="0.1375" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/gragiyant.xml" value="0.1575" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_add_ic_call_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1375" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_mode_edit_24.xml" value="0.1405" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1575" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/See_all_Activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_cart_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_forget.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_hori_details.xml" value="0.22" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_on_boding.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_order_comfirmation.xml" value="0.2" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_payment.xml" value="0.2" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_seeall.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/cart_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/category_fragment.xml" value="0.33" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fav_list_layout.xml" value="0.33" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_cart.xml" value="0.18" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_change.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_hori_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_logout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_sighup.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/fragment_signin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/grid_demo_layout.xml" value="0.203125" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/home_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/horizontal_list.xml" value="0.5" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/layout_bottom.xml" value="0.203125" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/logout_dilogbox.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/navi_drw_heder.xml" value="0.203125" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/on_boding_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/par3_seeall.xml" value="0.16" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/par3_title.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/profile_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/see_all_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/layout/tital_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/menu/bottom_navigration.xml" value="0.25" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/menu/nav_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android With Kotlin/AndoidProject/Food/app/src/main/res/menu/search_menu.xml" value="0.22" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_cart_list.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_home.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_map.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_on_boding.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_order_comfirmation.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_seeall.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/activity_splash.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/cart_fragment.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/fragment_cart.xml" value="0.24895833333333334" />
+        <entry key="..\:/Androidwork/Projects/FoodShivay/app/src/main/res/layout/navi_drw_heder.xml" value="0.24895833333333334" />
+        <entry key="..\:/milanWork/Android Work/AndroidProject/AndroidAssignemt/Food/app/src/main/res/layout/activity_cart_list.xml" value="0.1574074074074074" />
+        <entry key="..\:/milanWork/Android Work/AndroidProject/AndroidAssignemt/Food/app/src/main/res/layout/activity_map.xml" value="0.1574074074074074" />
+        <entry key="..\:/milanWork/Android Work/AndroidProject/AndroidAssignemt/Food/app/src/main/res/layout/activity_seeall.xml" value="0.1574074074074074" />
+        <entry key="..\:/milanWork/Android Work/AndroidProject/AndroidAssignemt/Food/app/src/main/res/layout/category_fragment.xml" value="0.1574074074074074" />
+        <entry key="..\:/milanWork/Android Work/AndroidProject/AndroidAssignemt/Food/app/src/main/res/layout/profile_fragment.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

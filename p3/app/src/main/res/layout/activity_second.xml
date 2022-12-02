@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".SecondActivity">
+
+    <ImageView
+        android:src="@drawable/whatsapp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="21sp"
+        android:textColor="@color/black"
+        android:text="create your account with\n whatsapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:drawablePadding="20dp"
+        android:id="@+id/rd_name"
+        android:inputType="textPersonName"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:hint="Enter the name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:drawablePadding="20dp"
+        android:drawableLeft="@drawable/ic_baseline_contact_phone_24"
+        android:id="@+id/rd_contact"
+        android:inputType="number"
+        android:hint="Enter the contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:drawablePadding="20dp"
+        android:id="@+id/rd_email"
+        android:inputType="textEmailAddress"
+        android:hint="Enter the email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:drawablePadding="20dp"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:id="@+id/rd_password"
+        android:inputType="textPassword"
+        android:hint="Enter the password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:drawablePadding="20dp"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:id="@+id/rd_cpassword"
+        android:hint="Enter confirm password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/rd_register"
+        android:text="Register her"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

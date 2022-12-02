@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_rate"
+        android:title="@string/rate"
+        android:enabled="true">
+    </item>
+    <item
+        android:enabled="true"
+        android:id="@+id/nav_ShareApp"
+        android:title="@string/ShareApp">
+    </item>
+    <item
+        android:enabled="true"
+        android:id="@+id/nav_Pricvecy"
+        android:title="@string/privacypolicy">
+    </item>
+    <item
+        android:enabled="true"
+        android:id="@+id/nav_saveStatus"
+        android:title="@string/SaveStatus">
+    </item>
+    <item
+        android:enabled="true"
+        android:id="@+id/nav_message"
+        android:title="@string/MessageRecovery">
+    </item>
+
+
+</menu>
